@@ -31,7 +31,7 @@ with open('data/canada_icehockey.csv') as csvfile:
 print(len(women),"Women won a medal")
 print(len(men),"Men won a medal")
 
-labels=["Women","Men","Bronze"]
+labels=["Women","Men"]
 sizes=[len(women),len(men)]
 colors=['#fbc8cf','#b9dafe']
 explode=(0.1,0.1)
