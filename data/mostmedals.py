@@ -14,7 +14,7 @@ plt.xticks(y_pos, bars)
 # Create names on the x-axis
 plt.ylabel("How Many Medals")
 plt.xlabel("Which Sport")
-plt.title("Which Sport does Canada Won the Most Medals.")
+plt.title("Which Sport does Canada Won the Most Medals.", pad=20)
 # Show graphic
 plt.show()
 
