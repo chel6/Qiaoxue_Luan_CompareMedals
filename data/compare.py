@@ -41,6 +41,6 @@ plt.pie(sizes,explode=explode,colors=colors,autopct='%1.f%%',shadow=True,startan
 plt.axis("equal")
 
 plt.legend(labels,loc=1)
-plt.title("Who Won More Medals?")
+plt.title("Who Won More Medals?", pad=20)
 plt.xlabel("Metal Counts Since 1924")
 plt.show()

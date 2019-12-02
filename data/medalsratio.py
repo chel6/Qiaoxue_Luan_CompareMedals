@@ -6,7 +6,7 @@ silvers=[]
 bronzes=[]
 
 categories=[] #first row->not data
-with open('canada_icehockey.csv') as csvfile:
+with open('data/canada_icehockey.csv') as csvfile:
 	reader=csv.reader(csvfile)
 	line_count=0
 	
@@ -45,6 +45,6 @@ plt.pie(sizes,explode=explode,colors=colors,autopct='%1.f%%',shadow=True,startan
 plt.axis("equal")
 
 plt.legend(labels,loc=1)
-plt.title("Hockey Medal Wins-Historic Medal Counts")
+plt.title("Hockey Medal Wins-Historic Medal Counts", pad=20)
 plt.xlabel("Metal Counts Since 1924")
 plt.show()
