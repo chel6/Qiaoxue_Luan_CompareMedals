@@ -1,7 +1,7 @@
 # Medals Compare - Python
 ===========================
 
-## This page is built to analyze the Medals of Winter Olympics. 
+## This page is built to analyze the Medals of Winter Olympics 1924-2014. 
 
 ## Description
 
