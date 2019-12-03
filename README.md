@@ -10,6 +10,8 @@
 2. The proportion of gold/ silver and bronze medals
 3. Who won more medals in this sport? Men or Women.
 4. Does there has some changes about the counts through years?
+   - Does the medal counts have some change?
+   - Does
 - You will find answers at this page.
 
 ## Author
