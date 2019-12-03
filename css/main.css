@@ -29,9 +29,7 @@ p{
 	padding:0px 10px 0px 10px;
 }
 
-.logoFooter {
-	height: 50px;
-	width: 160px;
-	margin-top: 20px;
-	margin-bottom: 20px;
+.copyright{
+	font-size: 8pt;
+	margin-left: auto;
 }
